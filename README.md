@@ -1,6 +1,6 @@
 # Steam I-JEPA: match banners with Meta AI's I-JEPA
 
-This repository contains Python code to retrieve Steam games with similar store banners, using [Meta AI's **I**mage-based **J**oint-**E**mbedding **P**redictive **A**rchitecture (I-JEPA)][fb-ijepa-code].
+This repository contains Python code to retrieve Steam games with similar store banners, using Meta AI's [**I**mage-based **J**oint-**E**mbedding **P**redictive **A**rchitecture][fb-ijepa-code] (I-JEPA).
 
 Image similarity is assessed by the cosine similarity between image features encoded by I-JEPA.
 
