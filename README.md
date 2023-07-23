@@ -8,7 +8,7 @@ Image similarity is assessed by the cosine similarity between image features enc
 
 ## References
 
--   Facebook's I-JEPA:
+-   Meta AI's I-JEPA:
     - [Official blog post][fb-ijepa-blog]
     - [Official Github repository][fb-ijepa-code]
     - [Assran, Mahmoud, et al. *Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture*. CVPR 2023.][fb-ijepa-paper] 
